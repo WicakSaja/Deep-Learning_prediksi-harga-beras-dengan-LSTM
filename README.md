@@ -100,15 +100,6 @@ Metrik ini digunakan untuk mengukur selisih antara nilai aktual dan hasil predik
 
 ---
 
-## 📁 Struktur Repository
-📦 lstm-harga-beras-jakarta
-┣ 📂 dataset
-┃ ┗ cleaned_comodities_day.csv
-┣ 📂 notebook
-┃ ┗ LSTM_DeepLearning.ipynb
-
----
-
 ## ✅ Kesimpulan
 Model LSTM mampu mempelajari pola harga beras harian di Jakarta dan menghasilkan prediksi yang mengikuti tren data aktual. Model ini cukup baik digunakan sebagai pendekatan peramalan harga komoditas berbasis deep learning.
 
